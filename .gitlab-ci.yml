@@ -1,0 +1,43 @@
+stages:
+  - test
+  - build
+  - deploy
+
+test-backend:
+  stage: test
+  script:
+    - pip3 install -r requirements.txt
+    - cd backend && python3 -m unittest -vb tests/test_*
+
+build:
+  stage: build
+  image: alpine
+  only:
+    refs:
+      - master
+  before_script:
+    - apk add zip
+  script:
+    - zip -r W21CIS4250Team2-$(date +"%m.%d.%y.%H").zip *
+  artifacts:
+    paths:
+      - W21CIS4250Team2-$(date +%m.%d.%y.%H).zip
+
+deploy-to-prod:
+  stage: deploy
+  needs: ["test-backend"]
+  image: alpine
+  only:
+    refs:
+      - master
+  before_script:
+    - apk add openssh-client
+    - eval $(ssh-agent -s)
+    - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add -
+    - mkdir -p ~/.ssh
+    - chmod 700 ~/.ssh
+  script:
+    - ssh -o StrictHostKeyChecking=no sysadmin@cis4250-02.socs.uoguelph.ca "cd /home/sysadmin/W21CIS4250Team2; git checkout master; git checkout -- frontend/package-lock.json; git pull https://$CI_DEPLOY_USER:$CI_DEPLOY_PASSWORD@git.socs.uoguelph.ca/team2-design5/project.git"
+    - ssh -o StrictHostKeyChecking=no sysadmin@cis4250-02.socs.uoguelph.ca "cd /home/sysadmin/W21CIS4250Team2; cd frontend; npm install; echo 'REACT_APP_ENV=production' > .env; npm run build"
+    - ssh -tt -o StrictHostKeyChecking=no sysadmin@cis4250-02.socs.uoguelph.ca "sudo service apache2 restart"
+

@@ -1,0 +1,57 @@
+input:focus {
+  outline: none;
+}
+
+.space {
+  margin-top: 25px;
+}
+
+.searchBarFlex {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-flex-start;
+  /* box-shadow: 1px 1px 1px 1px #b4a5a5; */
+  border: 1px solid black;
+  max-width: 310px;
+  border-radius: 3px;
+  overflow: hidden;
+  position: relative;
+}
+
+.search-bar {
+  height: 25px;
+  border: none;
+  padding-left: 15px;
+}
+
+.options {
+  position: relative;
+  z-index: 1;
+  padding-left: 15px;
+  background-color: white;
+  color: #0f3460;
+  font-size: 14px;
+  box-shadow: none;
+  border: none;
+  max-width: 310px;
+  overflow: hidden;
+}
+
+.options:first-child {
+  border-top: 1px solid black;
+}
+
+.options:hover {
+  cursor: pointer;
+  background-color: lightgrey;
+}
+
+.invalid {
+  border: 1px solid #3c415c;
+  box-shadow: none;
+}
+
+input {
+  font-family: "Roboto Mono", monospace;
+}

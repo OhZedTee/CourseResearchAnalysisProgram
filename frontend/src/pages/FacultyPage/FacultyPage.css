@@ -1,0 +1,22 @@
+.search-courses-content {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-courses-content h3 {
+  font-size: 26px;
+}
+
+.space {
+  margin-top: 25px;
+}
+
+.faculty-search {
+  margin-right: 15px;
+  height: 25px;
+  border-radius: 5px;
+  border: 1px solid black;
+}

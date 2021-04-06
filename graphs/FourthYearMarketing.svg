@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="359.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-120.000000 -262.000000 359.000000 637.000000" height="637.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -42.932518,2.645092 L -44.710724,-5.841471"
+              class="id_MCS*3030 id_MCS*4020" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 157.408325,-245.856659 L 161.384857,-243.391861"
+              class="id_MCS*1000 id_MCS*4040" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 193.739655,-222.912476 L 184.229141,-229.000885"
+              class="id_MCS*2600 id_MCS*4040" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -8.004417,363.732605 L -5.684285,363.576080"
+              class="id_MCS*3600 id_MCS*4060" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 28.451954,35.454922 L 33.940578,38.561611"
+              class="id_MCS*3500 id_MCS*4100" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 209.536713,-225.118530 L 214.302353,-230.510056"
+              class="id_MCS*2600 id_MCS*4300" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -32.986588,19.959347 L -22.938644,29.033550"
+              class="id_MCS*3030 id_MCS*4370" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.108665,32.751957 L 0.201818,34.906960"
+              class="id_MCS*3500 id_MCS*4370" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -98.714729,5.905353 L -93.632484,6.442642"
+              class="id_ECON*3740 id_MCS*4400" stroke-opacity="1.0"
+              stroke="#969588"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -51.193779,11.585371 L -66.817116,9.580359"
+              class="id_MCS*3030 id_MCS*4400" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -45.805874,22.140511 L -50.097092,30.010305"
+              class="id_MCS*3030 id_MCS*4600" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 211.371826,-211.506500 L 217.582306,-207.447128"
+              class="id_MCS*2600 id_MCS*4910" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 198.326874,-207.652496 L 195.393631,-201.036865"
+              class="id_MCS*2600 id_MCS*4920" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -30.769636,9.750353 L -12.865352,4.077309"
+              class="id_MCS*3030 id_MCS*4950" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 13.668890,21.429462 L 7.262331,11.382360"
+              class="id_MCS*3500 id_MCS*4950" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 10.764452,-16.625540 L 7.339383,-11.333701"
+              class="id_MCS*3620 id_MCS*4950" stroke-opacity="1.0"
+              stroke="#ee7993"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_MCS*3030 id_MCS*4020"
+                  points="-45.325958,-8.777708 -43.242607,-6.149088 -46.178841,-5.533853"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_MCS*1000 id_MCS*4040"
+                  points="163.934753,-241.811340 160.594604,-242.116913 162.175110,-244.666809"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_MCS*2600 id_MCS*4040"
+                  points="181.702530,-230.618362 185.037888,-230.264191 183.420395,-227.737579"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_MCS*3600 id_MCS*4060"
+                  points="-2.691089,363.374146 -5.583323,365.072693 -5.785247,362.079468"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_MCS*3500 id_MCS*4100"
+                  points="36.551365,40.039379 33.201694,39.867004 34.679462,37.256218"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_MCS*2600 id_MCS*4300"
+                  points="216.289200,-232.757828 215.426239,-229.516632 213.178467,-231.503479"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_MCS*3030 id_MCS*4370"
+                  points="-20.712187,31.044243 -23.943991,30.146778 -21.933298,27.920322"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_MCS*3500 id_MCS*4370"
+                  points="-2.714049,35.612450 -0.150928,33.449024 0.554563,36.364895"
+                  stroke="none"/>
+        <polyline fill="#969588" fill-opacity="1.0"
+                  class="id_ECON*3740 id_MCS*4400"
+                  points="-90.649109,6.758041 -93.790184,7.934330 -93.474785,4.950955"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_MCS*3030 id_MCS*4400"
+                  points="-69.792709,9.198488 -66.626183,8.092562 -67.008049,11.068157"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_MCS*3030 id_MCS*4600"
+                  points="-51.533287,32.644188 -51.414032,29.292208 -48.780151,30.728403"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_MCS*2600 id_MCS*4910"
+                  points="220.093475,-205.805756 216.761627,-206.191559 218.402985,-208.702698"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_MCS*2600 id_MCS*4920"
+                  points="194.177658,-198.294357 194.022369,-201.644852 196.764893,-200.428879"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_MCS*3030 id_MCS*4950"
+                  points="-10.005480,3.171147 -12.412271,5.507245 -13.318433,2.647373"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_MCS*3500 id_MCS*4950"
+                  points="5.649385,8.852854 8.527084,10.575888 5.997578,12.188833"
+                  stroke="none"/>
+        <polyline fill="#ee7993" fill-opacity="1.0"
+                  class="id_MCS*3620 id_MCS*4950"
+                  points="5.709314,-8.815194 6.080129,-12.148735 8.598636,-10.518667"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ee7993" r="10.0" cx="-47.479282"
+                class="id_MCS*4020" cy="-19.054535" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="10.0" cx="172.85939"
+                class="id_MCS*4040" cy="-236.27954" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="10.0" cx="7.7851"
+                class="id_MCS*4060" cy="362.66742" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="10.0" cx="45.689117"
+                class="id_MCS*4100" cy="45.211563" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="10.0" cx="223.24312"
+                class="id_MCS*4300" cy="-240.62503" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="10.0" cx="-12.919585"
+                class="id_MCS*4370" cy="38.08167" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="10.0" cx="-80.2073"
+                class="id_MCS*4400" cy="7.861939" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="10.0" cx="-56.559975"
+                class="id_MCS*4600" cy="41.86278" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="10.0" cx="228.8825"
+                class="id_MCS*4910" cy="-200.06096" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="10.0" cx="189.92174"
+                class="id_MCS*4920" cy="-188.69554" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="10.0" cx="0.004074046"
+                class="id_MCS*4950" cy="-4.201722E-4" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="10.0" cx="-40.77919"
+                class="id_MCS*3030" cy="12.92192" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="10.0" cx="148.48369"
+                class="id_MCS*1000" cy="-251.38846" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="10.0" cx="202.5828"
+                class="id_MCS*2600" cy="-217.25131" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="10.0" cx="-18.480606"
+                class="id_MCS*3600" cy="364.43933" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="10.0" cx="19.314201"
+                class="id_MCS*3500" cy="30.282738" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="10.0" cx="-109.15654"
+                class="id_ECON*3740" cy="4.801455" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="10.0" cx="16.469692"
+                class="id_MCS*3620" cy="-25.440313" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="10" x="-47.479282" y="-17.203136" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MCS*4020">
+            MCS*4020
+        </text>
+        <text font-size="10" x="172.85939" y="-234.42813" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MCS*4040">
+            MCS*4040
+        </text>
+        <text font-size="10" x="7.7851" y="364.5188" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MCS*4060">
+            MCS*4060
+        </text>
+        <text font-size="10" x="45.689117" y="47.062965" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MCS*4100">
+            MCS*4100
+        </text>
+        <text font-size="10" x="223.24312" y="-238.77281" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MCS*4300">
+            MCS*4300
+        </text>
+        <text font-size="10" x="-12.919585" y="39.933884" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MCS*4370">
+            MCS*4370
+        </text>
+        <text font-size="10" x="-80.2073" y="9.713339" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MCS*4400">
+            MCS*4400
+        </text>
+        <text font-size="10" x="-56.559975" y="43.71418" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MCS*4600">
+            MCS*4600
+        </text>
+        <text font-size="10" x="228.8825" y="-198.20956" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MCS*4910">
+            MCS*4910
+        </text>
+        <text font-size="10" x="189.92174" y="-186.84415" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MCS*4920">
+            MCS*4920
+        </text>
+        <text font-size="10" x="0.004074046" y="1.8509794" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MCS*4950">
+            MCS*4950
+        </text>
+        <text font-size="10" x="-40.77919" y="15.268925" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MCS*3030">
+            MCS*3030 (Not in Dataset)
+        </text>
+        <text font-size="10" x="148.48369" y="-249.04146" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MCS*1000">
+            MCS*1000 (Not in Dataset)
+        </text>
+        <text font-size="10" x="202.5828" y="-214.9043" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MCS*2600">
+            MCS*2600 (Not in Dataset)
+        </text>
+        <text font-size="10" x="-18.480606" y="366.78632" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MCS*3600">
+            MCS*3600 (Not in Dataset)
+        </text>
+        <text font-size="10" x="19.314201" y="32.62974" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MCS*3500">
+            MCS*3500 (Not in Dataset)
+        </text>
+        <text font-size="10" x="-109.15654" y="7.149274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ECON*3740">
+            ECON*3740 (Not in Dataset)
+        </text>
+        <text font-size="10" x="16.469692" y="-23.093307" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MCS*3620">
+            MCS*3620 (Not in Dataset)
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+Steps to run
+
+1. On terminal cd to the frontend folder
+2. Connect to the school server with a vpn
+3. run npm install
+4. run npm start
+5. view the app in http://localhost:3000/
+
+# Graph Data
+
+- Graph data (exported CSVs from the /export endpoint) is located in the frontend/src/data
+
+Steps to build
+1. Connect to the school server with a vpn
+2. cd ~/W21CIS4250Team2/frontend/
+3. npm install
+4. echo "REACT_APP_ENV=production" > .env
+5. npm run build

@@ -1,0 +1,13 @@
+.space {
+  margin-top: 25px;
+}
+
+.flexbox-horizontal {
+  width: 600px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+  text-decoration: none;
+}

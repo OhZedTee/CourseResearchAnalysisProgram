@@ -1,0 +1,11 @@
+.decision-content {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.decision-content h3 {
+  font-size: 26px;
+}

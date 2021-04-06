@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Coverage report</title>
+    <link rel="icon" sizes="32x32" href="favicon_32.png">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="jquery.ba-throttle-debounce.min.js"></script>
+    <script type="text/javascript" src="jquery.tablesorter.min.js"></script>
+    <script type="text/javascript" src="jquery.hotkeys.js"></script>
+    <script type="text/javascript" src="coverage_html.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(coverage.index_ready);
+    </script>
+</head>
+<body class="indexfile">
+<div id="header">
+    <div class="content">
+        <h1>Coverage report:
+            <span class="pc_cov">92%</span>
+        </h1>
+        <img id="keyboard_icon" src="keybd_closed.png" alt="Show keyboard shortcuts" />
+        <form id="filter_container">
+            <input id="filter" type="text" value="" placeholder="filter..." />
+        </form>
+    </div>
+</div>
+<div class="help_panel">
+    <img id="panel_icon" src="keybd_open.png" alt="Hide keyboard shortcuts" />
+    <p class="legend">Hot-keys on this page</p>
+    <div>
+    <p class="keyhelp">
+        <span class="key">n</span>
+        <span class="key">s</span>
+        <span class="key">m</span>
+        <span class="key">x</span>
+        <span class="key">c</span> &nbsp; change column sorting
+    </p>
+    </div>
+</div>
+<div id="index">
+    <table class="index">
+        <thead>
+            <tr class="tablehead" title="Click to sort">
+                <th class="name left headerSortDown shortkey_n">Module</th>
+                <th class="shortkey_s">statements</th>
+                <th class="shortkey_m">missing</th>
+                <th class="shortkey_x">excluded</th>
+                <th class="right shortkey_c">coverage</th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr class="total">
+                <td class="name left">Total</td>
+                <td>1222</td>
+                <td>97</td>
+                <td>0</td>
+                <td class="right" data-ratio="1125 1222">92%</td>
+            </tr>
+        </tfoot>
+        <tbody>
+            <tr class="file">
+                <td class="name left"><a href="Main_py.html">Main.py</a></td>
+                <td>61</td>
+                <td>13</td>
+                <td>0</td>
+                <td class="right" data-ratio="48 61">79%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="src_Course_py.html">src\Course.py</a></td>
+                <td>17</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="17 17">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="src_Exporter_py.html">src\Exporter.py</a></td>
+                <td>54</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="54 54">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="src_ParseFactory_py.html">src\ParseFactory.py</a></td>
+                <td>18</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="18 18">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="src_ParseText_py.html">src\ParseText.py</a></td>
+                <td>91</td>
+                <td>3</td>
+                <td>0</td>
+                <td class="right" data-ratio="88 91">97%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="src_PickleToFile_py.html">src\PickleToFile.py</a></td>
+                <td>15</td>
+                <td>1</td>
+                <td>0</td>
+                <td class="right" data-ratio="14 15">93%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="src_ScrapeCron_py.html">src\ScrapeCron.py</a></td>
+                <td>30</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="30 30">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="src_Search_py.html">src\Search.py</a></td>
+                <td>116</td>
+                <td>3</td>
+                <td>0</td>
+                <td class="right" data-ratio="113 116">97%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="src_UserInterface_py.html">src\UserInterface.py</a></td>
+                <td>162</td>
+                <td>36</td>
+                <td>0</td>
+                <td class="right" data-ratio="126 162">78%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="src_WebCourse_py.html">src\WebCourse.py</a></td>
+                <td>26</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="26 26">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="src_WebScrape_py.html">src\WebScrape.py</a></td>
+                <td>94</td>
+                <td>4</td>
+                <td>0</td>
+                <td class="right" data-ratio="90 94">96%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="src___init___py.html">src\__init__.py</a></td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="0 0">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="tests___init___py.html">tests\__init__.py</a></td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="0 0">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="tests_test_CourseObject_py.html">tests\test_CourseObject.py</a></td>
+                <td>31</td>
+                <td>1</td>
+                <td>0</td>
+                <td class="right" data-ratio="30 31">97%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="tests_test_Exporter_py.html">tests\test_Exporter.py</a></td>
+                <td>69</td>
+                <td>13</td>
+                <td>0</td>
+                <td class="right" data-ratio="56 69">81%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="tests_test_Main_py.html">tests\test_Main.py</a></td>
+                <td>44</td>
+                <td>4</td>
+                <td>0</td>
+                <td class="right" data-ratio="40 44">91%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="tests_test_ParseFactory_py.html">tests\test_ParseFactory.py</a></td>
+                <td>20</td>
+                <td>1</td>
+                <td>0</td>
+                <td class="right" data-ratio="19 20">95%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="tests_test_ParseText_py.html">tests\test_ParseText.py</a></td>
+                <td>20</td>
+                <td>1</td>
+                <td>0</td>
+                <td class="right" data-ratio="19 20">95%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="tests_test_PickleToFile_py.html">tests\test_PickleToFile.py</a></td>
+                <td>21</td>
+                <td>0</td>
+                <td>0</td>
+                <td class="right" data-ratio="21 21">100%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="tests_test_ScrapeCron_py.html">tests\test_ScrapeCron.py</a></td>
+                <td>14</td>
+                <td>1</td>
+                <td>0</td>
+                <td class="right" data-ratio="13 14">93%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="tests_test_Search_py.html">tests\test_Search.py</a></td>
+                <td>150</td>
+                <td>8</td>
+                <td>0</td>
+                <td class="right" data-ratio="142 150">95%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="tests_test_UserInterface_py.html">tests\test_UserInterface.py</a></td>
+                <td>110</td>
+                <td>5</td>
+                <td>0</td>
+                <td class="right" data-ratio="105 110">95%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="tests_test_WebCourseObject_py.html">tests\test_WebCourseObject.py</a></td>
+                <td>31</td>
+                <td>1</td>
+                <td>0</td>
+                <td class="right" data-ratio="30 31">97%</td>
+            </tr>
+            <tr class="file">
+                <td class="name left"><a href="tests_test_Webscraper_py.html">tests\test_Webscraper.py</a></td>
+                <td>28</td>
+                <td>2</td>
+                <td>0</td>
+                <td class="right" data-ratio="26 28">93%</td>
+            </tr>
+        </tbody>
+    </table>
+    <p id="no_rows">
+        No items found using the specified filter.
+    </p>
+</div>
+<div id="footer">
+    <div class="content">
+        <p>
+            <a class="nav" href="https://coverage.readthedocs.io">coverage.py v5.4</a>,
+            created at 2021-02-08 21:19 -0500
+        </p>
+    </div>
+</div>
+</body>
+</html>

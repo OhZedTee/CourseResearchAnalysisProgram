@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1688.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1191.000000 -484.000000 1688.000000 931.000000" height="931.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 445.274292,65.941528 L 438.045166,64.290092"
+              class="id_BIOL*2060 id_BIOL*4710" stroke-opacity="1.0"
+              stroke="#00b7da"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 465.735046,70.669579 L 472.968628,72.360199"
+              class="id_BIOL*2060 id_BIOL*4810" stroke-opacity="1.0"
+              stroke="#00b7da"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -373.236237,-117.050316 L -378.199799,-111.514915"
+              class="id_IDEV*2010 id_IDEV*4190" stroke-opacity="1.0"
+              stroke="#ff743e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -401.061859,-90.251801 L -397.704987,-92.969437"
+              class="id_IDEV*2500 id_IDEV*4190" stroke-opacity="1.0"
+              stroke="#ff743e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.645973,-42.123947 L 20.136442,-41.675495"
+              class="id_MUSC*2530 id_MUSC*2540" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 90.165482,-469.006683 L 85.369400,-470.198761"
+              class="id_MUSC*2570 id_MUSC*2580" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 40.608879,-48.938759 L 46.898705,-55.998596"
+              class="id_MUSC*2540 id_MUSC*3210" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 62.641037,-74.111221 L 67.945099,-80.412170"
+              class="id_MUSC*3210 id_MUSC*3220" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1.385104,48.271679 L 1.532125,61.878456"
+              class="id_MUSC*2560 id_MUSC*3230" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1.472305,85.875656 L 1.313505,93.980957"
+              class="id_MUSC*3230 id_MUSC*3240" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -29.544350,-14.472084 L -13.205492,-6.237995"
+              class="id_MUSC*2500 id_MUSC*3550" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.920062,-32.072666 L -1.052649,-13.662124"
+              class="id_MUSC*2530 id_MUSC*3550" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 26.826309,-33.096432 L 7.590176,-10.451380"
+              class="id_MUSC*2540 id_MUSC*3550" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -24.440247,11.565843 L -13.207373,5.909313"
+              class="id_MUSC*2550 id_MUSC*3550" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.602764,27.293621 L -0.289861,13.310105"
+              class="id_MUSC*2560 id_MUSC*3550" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 8.743227,3.355569 L 23.100960,8.461264"
+              class="id_MUSC*3550 id_MUSC*3560" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -14.869079,427.909576 L -11.120396,429.945343"
+              class="id_ZOO*2090 id_ZOO*4940" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.052544,419.563660 L -41.072678,417.212158"
+              class="id_ZOO*2090 id_ZOO*4950" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#00b7da" fill-opacity="1.0"
+                  class="id_BIOL*2060 id_BIOL*4710"
+                  points="435.120514,63.621975 438.379211,62.827763 437.711121,65.752419"
+                  stroke="none"/>
+        <polyline fill="#00b7da" fill-opacity="1.0"
+                  class="id_BIOL*2060 id_BIOL*4810"
+                  points="475.889893,73.042953 472.627258,73.820839 473.309998,70.899559"
+                  stroke="none"/>
+        <polyline fill="#ff743e" fill-opacity="1.0"
+                  class="id_IDEV*2010 id_IDEV*4190"
+                  points="-380.202606,-109.281372 -379.316559,-112.516319 -377.083038,-110.513512"
+                  stroke="none"/>
+        <polyline fill="#ff743e" fill-opacity="1.0"
+                  class="id_IDEV*2500 id_IDEV*4190"
+                  points="-395.373322,-94.857109 -396.761139,-91.803596 -398.648834,-94.135277"
+                  stroke="none"/>
+        <polyline fill="#d27cce" fill-opacity="1.0"
+                  class="id_MUSC*2530 id_MUSC*2540"
+                  points="23.133705,-41.547363 20.072378,-40.176865 20.200506,-43.174126"
+                  stroke="none"/>
+        <polyline fill="#d27cce" fill-opacity="1.0"
+                  class="id_MUSC*2570 id_MUSC*2580"
+                  points="82.457985,-470.922394 85.731216,-471.654480 85.007584,-468.743042"
+                  stroke="none"/>
+        <polyline fill="#d27cce" fill-opacity="1.0"
+                  class="id_MUSC*2540 id_MUSC*3210"
+                  points="48.894348,-58.238556 48.018684,-55.000774 45.778725,-56.996418"
+                  stroke="none"/>
+        <polyline fill="#d27cce" fill-opacity="1.0"
+                  class="id_MUSC*3210 id_MUSC*3220"
+                  points="69.877083,-82.707268 69.092644,-79.446182 66.797554,-81.378159"
+                  stroke="none"/>
+        <polyline fill="#d27cce" fill-opacity="1.0"
+                  class="id_MUSC*2560 id_MUSC*3230"
+                  points="1.564537,64.878281 0.032212,61.894661 3.032037,61.862251"
+                  stroke="none"/>
+        <polyline fill="#d27cce" fill-opacity="1.0"
+                  class="id_MUSC*3230 id_MUSC*3240"
+                  points="1.254740,96.980377 -0.186207,93.951576 2.813217,94.010338"
+                  stroke="none"/>
+        <polyline fill="#d27cce" fill-opacity="1.0"
+                  class="id_MUSC*2500 id_MUSC*3550"
+                  points="-10.526464,-4.887879 -13.880550,-4.898481 -12.530434,-7.577509"
+                  stroke="none"/>
+        <polyline fill="#d27cce" fill-opacity="1.0"
+                  class="id_MUSC*2530 id_MUSC*3550"
+                  points="-1.074254,-10.662202 -2.552610,-13.672926 0.447312,-13.651321"
+                  stroke="none"/>
+        <polyline fill="#d27cce" fill-opacity="1.0"
+                  class="id_MUSC*2540 id_MUSC*3550"
+                  points="5.647943,-8.164957 6.446964,-11.422496 8.733388,-9.480264"
+                  stroke="none"/>
+        <polyline fill="#d27cce" fill-opacity="1.0"
+                  class="id_MUSC*2550 id_MUSC*3550"
+                  points="-10.527927,4.560027 -12.532730,7.249035 -13.882015,4.569590"
+                  stroke="none"/>
+        <polyline fill="#d27cce" fill-opacity="1.0"
+                  class="id_MUSC*2560 id_MUSC*3550"
+                  points="-0.480974,10.316198 1.207093,13.214549 -1.786814,13.405662"
+                  stroke="none"/>
+        <polyline fill="#d27cce" fill-opacity="1.0"
+                  class="id_MUSC*3550 id_MUSC*3560"
+                  points="25.927559,9.466418 22.598383,9.874563 23.603537,7.047964"
+                  stroke="none"/>
+        <polyline fill="#68ad36" fill-opacity="1.0"
+                  class="id_ZOO*2090 id_ZOO*4940"
+                  points="-8.484058,431.377045 -11.836240,431.263519 -10.404552,428.627167"
+                  stroke="none"/>
+        <polyline fill="#68ad36" fill-opacity="1.0"
+                  class="id_ZOO*2090 id_ZOO*4950"
+                  points="-43.917328,416.259277 -40.596245,415.789825 -41.549110,418.634491"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#00b7da" r="10.0" cx="424.88422"
+                class="id_BIOL*4710" cy="61.28357" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="10.0" cx="486.11435"
+                class="id_BIOL*4810" cy="75.4326" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="10.0" cx="-387.21246"
+                class="id_IDEV*4190" cy="-101.46395" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="10.0" cx="-0.8444462"
+                class="id_MUSC*2530" cy="-42.572395" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="10.0" cx="33.624123"
+                class="id_MUSC*2540" cy="-41.098915" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="10.0" cx="-33.818306"
+                class="id_MUSC*2550" cy="16.288343" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="10.0" cx="1.2716594"
+                class="id_MUSC*2560" cy="37.772293" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="10.0" cx="72.26802"
+                class="id_MUSC*2580" cy="-473.4551" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="10.0" cx="55.879105"
+                class="id_MUSC*3210" cy="-66.0784" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="10.0" cx="76.639015"
+                class="id_MUSC*3220" cy="-90.74009" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="10.0" cx="1.6779824"
+                class="id_MUSC*3230" cy="75.37767" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="10.0" cx="1.0490624"
+                class="id_MUSC*3240" cy="107.47836" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="10.0" cx="-1.1498694"
+                class="id_MUSC*3550" cy="-0.162474" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="10.0" cx="35.820656"
+                class="id_MUSC*3560" cy="12.984462" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="10.0" cx="-1180.08"
+                class="id_ZOO*3630" cy="20.207697" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="10.0" cx="0.74312055"
+                class="id_ZOO*4940" cy="436.38794" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="10.0" cx="-53.873615"
+                class="id_ZOO*4950" cy="412.92426" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="10.0" cx="455.5106"
+                class="id_BIOL*2060" cy="68.27994" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="10.0" cx="-366.22638"
+                class="id_IDEV*2010" cy="-124.86774" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="10.0" cx="-409.22272"
+                class="id_IDEV*2500" cy="-83.644966" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="10.0" cx="100.35544"
+                class="id_MUSC*2570" cy="-466.47397" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="10.0" cx="-38.920944"
+                class="id_MUSC*2500" cy="-19.197489" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="10.0" cx="-24.096258"
+                class="id_ZOO*2090" cy="422.89868" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="10" x="424.88422" y="63.135784" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_BIOL*4710">
+            BIOL*4710
+        </text>
+        <text font-size="10" x="486.11435" y="77.28481" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_BIOL*4810">
+            BIOL*4810
+        </text>
+        <text font-size="10" x="-387.21246" y="-99.61255" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_IDEV*4190">
+            IDEV*4190
+        </text>
+        <text font-size="10" x="-0.8444462" y="-40.72018" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MUSC*2530">
+            MUSC*2530
+        </text>
+        <text font-size="10" x="33.624123" y="-39.247513" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MUSC*2540">
+            MUSC*2540
+        </text>
+        <text font-size="10" x="-33.818306" y="18.139744" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MUSC*2550">
+            MUSC*2550
+        </text>
+        <text font-size="10" x="1.2716594" y="39.62369" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MUSC*2560">
+            MUSC*2560
+        </text>
+        <text font-size="10" x="72.26802" y="-471.6037" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MUSC*2580">
+            MUSC*2580
+        </text>
+        <text font-size="10" x="55.879105" y="-64.22619" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MUSC*3210">
+            MUSC*3210
+        </text>
+        <text font-size="10" x="76.639015" y="-88.88788" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MUSC*3220">
+            MUSC*3220
+        </text>
+        <text font-size="10" x="1.6779824" y="77.22988" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MUSC*3230">
+            MUSC*3230
+        </text>
+        <text font-size="10" x="1.0490624" y="109.330574" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MUSC*3240">
+            MUSC*3240
+        </text>
+        <text font-size="10" x="-1.1498694" y="1.6897395" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MUSC*3550">
+            MUSC*3550
+        </text>
+        <text font-size="10" x="35.820656" y="14.836676" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MUSC*3560">
+            MUSC*3560
+        </text>
+        <text font-size="10" x="-1180.08" y="22.060724" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ZOO*3630">
+            ZOO*3630
+        </text>
+        <text font-size="10" x="0.74312055" y="438.24014" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ZOO*4940">
+            ZOO*4940
+        </text>
+        <text font-size="10" x="-53.873615" y="414.77646" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ZOO*4950">
+            ZOO*4950
+        </text>
+        <text font-size="10" x="455.5106" y="70.627754" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_BIOL*2060">
+            BIOL*2060 (Not in Dataset)
+        </text>
+        <text font-size="10" x="-366.22638" y="-122.52073" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_IDEV*2010">
+            IDEV*2010 (Not in Dataset)
+        </text>
+        <text font-size="10" x="-409.22272" y="-81.29796" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_IDEV*2500">
+            IDEV*2500 (Not in Dataset)
+        </text>
+        <text font-size="10" x="100.35544" y="-464.12695" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MUSC*2570">
+            MUSC*2570 (Not in Dataset)
+        </text>
+        <text font-size="10" x="-38.920944" y="-16.850483" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_MUSC*2500">
+            MUSC*2500 (Not in Dataset)
+        </text>
+        <text font-size="10" x="-24.096258" y="425.2465" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ZOO*2090">
+            ZOO*2090 (Not in Dataset)
+        </text>
+    </g>
+</svg>
